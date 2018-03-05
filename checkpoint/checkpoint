@@ -1,0 +1,5 @@
+model_checkpoint_path: "/Users/fuhongshuai/PycharmProjects/Resnet/checkpoint/model.ckpt-4"
+all_model_checkpoint_paths: "/Users/fuhongshuai/PycharmProjects/Resnet/checkpoint/model.ckpt-1"
+all_model_checkpoint_paths: "/Users/fuhongshuai/PycharmProjects/Resnet/checkpoint/model.ckpt-2"
+all_model_checkpoint_paths: "/Users/fuhongshuai/PycharmProjects/Resnet/checkpoint/model.ckpt-3"
+all_model_checkpoint_paths: "/Users/fuhongshuai/PycharmProjects/Resnet/checkpoint/model.ckpt-4"
